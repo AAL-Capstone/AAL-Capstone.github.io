@@ -14,3 +14,9 @@
 <p class="has-line-data" data-line-start="17" data-line-end="20"><strong>Invision - Wireframes</strong><br>
 <strong>Miro - Boards</strong><br>
 <strong>Toggl - Time management</strong></p>
+
+<h4><a href="https://youtu.be/yX8RXwBqScc">Meeting wih kris -Scope</a></h4>
+
+<h4><a href="http://air-code.herokuapp.com/">app hosted</a></h4>
+
+
