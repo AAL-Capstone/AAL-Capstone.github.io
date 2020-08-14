@@ -1,4 +1,6 @@
-# AAL-Capstone.github.io
+
+    <h1>AirCode Team-Capstone 2020</h1>
+
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="AirCode_0"></a>AirCode</h1>
 <p class="has-line-data" data-line-start="1" data-line-end="2">Lightweight code share platform for teaching programming.</p>
 <h2 class="code-line" data-line-start=3 data-line-end=4 ><a id="Project_links_3"></a>Project links</h2>
@@ -14,9 +16,10 @@
 <p class="has-line-data" data-line-start="17" data-line-end="20"><strong>Invision - Wireframes</strong><br>
 <strong>Miro - Boards</strong><br>
 <strong>Toggl - Time management</strong></p>
-
+<h4><a href='https://bookings.unitec.ac.nz/reserve/hublibrary'> book meeting room</a></h4>
+<h4><a href='https://moodle.unitec.ac.nz/mod/assign/view.php?id=523319'>PROPOSAL SUBMITION LINK</a></h4>
 <h4><a href="https://youtu.be/yX8RXwBqScc">Meeting wih kris -Scope</a></h4>
 
 <h4><a href="http://air-code.herokuapp.com/">app hosted</a></h4>
 
-
+    
